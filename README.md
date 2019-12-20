@@ -1,6 +1,6 @@
 # Shop & Shopping
 ![1j+ojlxEOMkX9Wyqfhe43D6kiPGApRdOkBjIwWJqZyYV9wJ61X50x7c++Pw+LRsI4lcIgxA=](https://user-images.githubusercontent.com/44610017/71280089-53fb8500-2380-11ea-874e-5b4ba04df919.png)
-
+Helps you to select shop for shopping near you
 
 https://youtu.be/dVhTMKSoGDQ
 
