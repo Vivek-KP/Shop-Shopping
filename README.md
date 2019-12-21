@@ -23,3 +23,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Licensed under the MIT License
 https://github.com/d-rea-mer/Shop-Shopping.git
+LICENSE
