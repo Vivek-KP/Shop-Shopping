@@ -60,7 +60,7 @@ TextStyle(
                         textInputAction: TextInputAction.go,
                         decoration: InputDecoration(
                          
-                          hintText: "search for shop",
+                          hintText: "Search Shops",
                         
                            prefixIcon: new Icon(Icons.search,color: Colors.white,),
                         ),
